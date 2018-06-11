@@ -35,7 +35,7 @@ Click [here](https://playground.tensorflow.org)
 + [Kaggle blog](http://blog.kaggle.com/)
 
 #### Meetup Groups:
-+ [TensorFlow and Deep Learning Singapore](https://www.meetup.com/TensorFlow-and-Deep-Learning-Singapore/) (Videos [here](engineers.sg), slides [here](http://blog.mdda.net/) and [here](https://github.com/samwit/TensorFlowTalks))
++ [TensorFlow and Deep Learning Singapore](https://www.meetup.com/TensorFlow-and-Deep-Learning-Singapore/) (Videos [here](https://engineers.sg), slides [here](http://blog.mdda.net/) and [here](https://github.com/samwit/TensorFlowTalks))
 + [PyTorch and Deep Learning Singapore](https://www.meetup.com/PyTorch-and-Deep-Learning-Singapore/)
 
 #### Deployment:
