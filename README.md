@@ -20,7 +20,7 @@ Click [here](https://playground.tensorflow.org)
 
 #### Theory:
 + [Stanford CS231n Course Notes](http://cs231n.github.io/) and [Winter 2016 Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) by Andrej Karpathy (you can watch [Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) for later research developments but Karpathy explains it best)
-+ [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow et al. (All the theoretical basics and good review of research until end 2016) 
++ [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow et al. (All the theoretical basics and good review of research until end 2016). Download [here](https://github.com/janishar/mit-deep-learning-book-pdf)
 + [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo by floodsung
 
 #### TensorFlow code examples:
