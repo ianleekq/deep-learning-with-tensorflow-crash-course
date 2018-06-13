@@ -1,4 +1,4 @@
-# deep-learning-with-tensorflow-crash-course
+# Deep Learning With TensorFlow Crash Course
 
 ## Class Demos
 
